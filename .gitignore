@@ -10,3 +10,8 @@
 /SampleProject/SampleProject.Infrastructure/obj/Debug/net7.0
 /SampleProject/SampleProject.Infrastructure/obj
 /SampleProject/SampleProject.Model/obj
+/SampleProject/SampleProject/bin/Debug/net7.0
+/SampleProject/SampleProject.Business/bin/Debug/net7.0
+/SampleProject/SampleProject.Domain/bin/Debug/net7.0
+/SampleProject/SampleProject.Infrastructure/bin/Debug/net7.0
+/SampleProject/SampleProject.Model/bin/Debug/net7.0
